@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clipclient</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="play_button">Play Clip</string>
+    <string name="stop_button">Stop Clip</string>
+    <string name="pause_button">Pause Clip</string>
+    <string name="resume_button">Resume Clip</string>
+
+    <string-array name="data">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+    </string-array>
+</resources>
